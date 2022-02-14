@@ -1,2 +1,4 @@
-# Leet_Code_Solution-
-Here is the solution of some Leet code problem
+# Leet_Code_Solution(Part-1)
+I've provided a solution to the 50-leetcode programming question.
+
+
